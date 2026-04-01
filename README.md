@@ -23,7 +23,7 @@ This application acts as a secure gateway to the **Pollinations.ai** compute gri
 Operating the terminal requires zero technical setup. Access is granted via a secure OAuth handshake with the Pollinations compute grid.
 
 1. **Initiate Uplink:** Navigate to the live terminal and click the **"I'm Ready to Get Started Now!"** button.
-2. **Acquire Compute:** You will be securely routed to Pollinations.ai. If you are a new operator, you must register an account and acquire **Pollen credits** to fund your image generations.
+2. **Acquire Compute:** You will be securely routed to [Pollinations.ai](https://pollinations.ai/). If you are a new operator, you must register an account and acquire **Pollen credits** to fund your image generations.
 3. **Authorize the System:** Grant the AI Image Studio permission to read your profile and balance.
 4. **Enter the Grid:** You will be instantly redirected back to the Engine Dashboard. Your compute balance will sync automatically.
 5. **Execute Synthesis:** Select your canvas ratio, input your comma-separated prompt, and click *Execute Synthesis*. 
