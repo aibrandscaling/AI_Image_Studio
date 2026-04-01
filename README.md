@@ -10,7 +10,7 @@ This application acts as a secure gateway to the **Pollinations.ai** compute gri
 - **Model:** Hard-locked to the `nanobanana` model for maximum fidelity and uncensored output.
 - **Fail-Open Routing:** Bypasses CORS preflight checks by directly injecting authorization tokens into secure `GET` parameters.
 - **Ghost Router:** A custom lightweight JS router that seamlessly transitions unauthorized traffic to the VSL landing page, and authorized traffic to the engine dashboard without page reloads.
-- **Zero Data Retention:** No databases. No logs. Your prompts and images exist only in your browser's memory and are destroyed upon exit.
+- **Zero Data Retention:** No databases. No logs. Your prompts and images exist only in your browser's memory during your session.
 
 ### 🛡️ Core Features
 * **Uncapped Synthesis:** No corporate guardrails. Speak directly to the neural net.
