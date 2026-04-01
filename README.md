@@ -7,7 +7,7 @@
 This application acts as a secure gateway to the **Pollinations.ai** compute grid. By utilizing a "Bring Your Own Pollen" (BYOP) OAuth flow, the system guarantees sovereign key access—meaning you own your compute, and your prompts bypass standard corporate safety filters.
 
 ### ⚡ The Architecture
-- **Model:** Hard-locked to the `nanobanana` model for maximum fidelity and uncensored output.
+- **Model:** Hard-locked to the `nanobanana 2` model for maximum fidelity and uncensored output.
 - **Fail-Open Routing:** Bypasses CORS preflight checks by directly injecting authorization tokens into secure `GET` parameters.
 - **Ghost Router:** A custom lightweight JS router that seamlessly transitions unauthorized traffic to the VSL landing page, and authorized traffic to the engine dashboard without page reloads.
 - **Zero Data Retention:** No databases. No logs. Your prompts and images exist only in your browser's memory during your session.
