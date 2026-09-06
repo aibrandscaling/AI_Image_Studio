@@ -1,8 +1,8 @@
 # ⬛ AI Image Studio // The Secure Terminal
 
-![AI Image Studio](https://aiimagestudio.s3.us-east-2.amazonaws.com/aiimagestudio.webp)
+![AI Image Studio]([https://aiimagestudio.s3.us-east-2.amazonaws.com/aiimagestudio.webp](https://aiimage.studio/Syndicate_Asset_94626.jpg))
 
-**AI Image Studio** is a high-performance, zero-retention frontend terminal built for generating hyper-realistic, uncapped AI art. 
+**[AI Image Studio](https://aiimage.studio)** is a high-performance, zero-retention frontend terminal built for generating hyper-realistic, uncapped AI art. 
 
 This application acts as a secure gateway to the **Pollinations.ai** compute grid. By utilizing a "Bring Your Own Pollen" (BYOP) OAuth flow, the system guarantees sovereign key access—meaning you own your compute, and your prompts bypass standard corporate safety filters.
 
