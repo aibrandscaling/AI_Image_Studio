@@ -1,6 +1,6 @@
 # ⬛ AI Image Studio // The Secure Terminal
 
-![AI Image Studio]([https://aiimagestudio.s3.us-east-2.amazonaws.com/aiimagestudio.webp](https://aiimage.studio/Syndicate_Asset_94626.jpg))
+![AI Image Studio]([(https://aiimage.studio/Syndicate_Asset_94626.jpg)])
 
 **[AI Image Studio](https://aiimage.studio)** is a high-performance, zero-retention frontend terminal built for generating hyper-realistic, uncapped AI art. 
 
